@@ -8,4 +8,4 @@ beautifulsoup4
 selenium
 langchain  
 google-generativeai  
-openai  
+openai                                         
