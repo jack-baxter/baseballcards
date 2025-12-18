@@ -1,0 +1,11 @@
+python-dotenv
+pandas
+opencv-python
+pytesseract
+pillow
+requests
+beautifulsoup4
+selenium
+langchain  
+google-generativeai  
+openai  
