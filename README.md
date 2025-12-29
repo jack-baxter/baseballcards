@@ -1,4 +1,4 @@
-# Curveball - Baseball Card Cataloging System
+Baseball Card Cataloging System
 
 multi-agent pipeline for scanning, extracting, enriching, and grading baseball card collections. uses ocr, web scraping, and llm agents to automatically catalog and value cards from sheet scans.
 
